@@ -37,6 +37,7 @@ npm run dev
 ```
 
 - Server: http://localhost:5000
+- Live API: https://assignment-be-whj6.onrender.com/api/portfolio
 
 ## 🔗 API Endpoints
 
